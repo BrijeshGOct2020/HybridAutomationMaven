@@ -1,0 +1,44 @@
+2021-03-06 11:44:07,676 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: blankEmailAndPasswordSignIn ==================================
+2021-03-06 11:44:33,084 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:44:33,091 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:44:38,304 pages.AuthenticationPage INFO  - Step: Sign in button
+2021-03-06 11:44:41,719 pages.AuthenticationPage INFO  - Step: Get alert
+2021-03-06 11:44:43,144 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: blankEmailAndPasswordSignIn ==================================
+2021-03-06 11:44:43,146 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: blankEmailSignIn ==================================
+2021-03-06 11:45:10,803 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:45:10,804 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:45:14,472 pages.AuthenticationPage INFO  - Step: Enter password in SignIn box
+2021-03-06 11:45:17,080 pages.AuthenticationPage INFO  - Step: Sign in button
+2021-03-06 11:45:19,934 pages.AuthenticationPage INFO  - Step: Get alert
+2021-03-06 11:45:21,534 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: blankEmailSignIn ==================================
+2021-03-06 11:45:21,536 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: blankPasswordSignIn ==================================
+2021-03-06 11:45:44,725 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:45:44,726 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:45:50,961 pages.AuthenticationPage INFO  - Step: Enter email in SignIn box
+2021-03-06 11:45:51,423 pages.AuthenticationPage INFO  - Step: Sign in button
+2021-03-06 11:45:55,383 pages.AuthenticationPage INFO  - Step: Get alert
+2021-03-06 11:45:56,621 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: blankPasswordSignIn ==================================
+2021-03-06 11:45:56,626 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: invalidEmailAndPasswordSignIn ==================================
+2021-03-06 11:46:16,396 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:46:16,397 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:46:20,624 pages.AuthenticationPage INFO  - Step: Enter email in SignIn box
+2021-03-06 11:46:21,082 pages.AuthenticationPage INFO  - Step: Enter password in SignIn box
+2021-03-06 11:46:21,414 pages.AuthenticationPage INFO  - Step: Sign in button
+2021-03-06 11:46:24,646 pages.AuthenticationPage INFO  - Step: Get alert
+2021-03-06 11:46:25,741 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: invalidEmailAndPasswordSignIn ==================================
+2021-03-06 11:46:25,744 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: invalidEmailSignIn ==================================
+2021-03-06 11:46:46,536 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:46:46,537 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:46:52,494 pages.AuthenticationPage INFO  - Step: Enter email in SignIn box
+2021-03-06 11:46:52,940 pages.AuthenticationPage INFO  - Step: Enter password in SignIn box
+2021-03-06 11:46:53,263 pages.AuthenticationPage INFO  - Step: Sign in button
+2021-03-06 11:46:56,072 pages.AuthenticationPage INFO  - Step: Get alert
+2021-03-06 11:46:57,755 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: invalidEmailSignIn ==================================
+2021-03-06 11:46:57,757 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: invalidPasswordSignIn ==================================
+2021-03-06 11:47:24,083 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:47:24,085 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:47:33,192 pages.AuthenticationPage INFO  - Step: Enter email in SignIn box
+2021-03-06 11:47:33,521 pages.AuthenticationPage INFO  - Step: Enter password in SignIn box
+2021-03-06 11:47:33,859 pages.AuthenticationPage INFO  - Step: Sign in button
+2021-03-06 11:47:38,599 pages.AuthenticationPage INFO  - Step: Get alert
+2021-03-06 11:47:39,974 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: invalidPasswordSignIn ==================================

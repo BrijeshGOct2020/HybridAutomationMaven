@@ -1,0 +1,48 @@
+2021-03-06 11:41:26,979 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: createAccountTestDynamicDataPojo ==================================
+2021-03-06 11:42:34,616 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:42:34,622 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:42:43,022 pages.AuthenticationPage INFO  - Step: Validate Authentication page title
+2021-03-06 11:42:43,252 pages.AuthenticationPage INFO  - Step: Enter email address for the create user name
+2021-03-06 11:42:44,291 pages.AuthenticationPage INFO  - Step: Click on the submit button to fill the other details
+2021-03-06 11:42:45,363 pages.CreateAccountPage INFO  - Step: Validate CreateAccount page title
+2021-03-06 11:42:55,751 pages.CreateAccountPage INFO  - Validate header 'Your personal information'
+2021-03-06 11:42:56,114 pages.CreateAccountPage INFO  - Step: Select title
+2021-03-06 11:42:56,297 pages.CreateAccountPage INFO  - Step: Enter First Name
+2021-03-06 11:42:56,576 pages.CreateAccountPage INFO  - Step: Enter Last Name
+2021-03-06 11:42:56,867 pages.CreateAccountPage INFO  - Step: Enter Password
+2021-03-06 11:42:57,382 pages.CreateAccountPage INFO  - Step: Select day
+2021-03-06 11:42:58,133 pages.CreateAccountPage INFO  - Step: Select month
+2021-03-06 11:42:58,834 pages.CreateAccountPage INFO  - Step: Select year
+2021-03-06 11:42:59,557 pages.CreateAccountPage INFO  - Step: Enter Company Name
+2021-03-06 11:42:59,770 pages.CreateAccountPage INFO  - Step: Enter Address Name
+2021-03-06 11:43:00,106 pages.CreateAccountPage INFO  - Step: Enter City Name
+2021-03-06 11:43:00,347 pages.CreateAccountPage INFO  - Step: Select State
+2021-03-06 11:43:00,832 pages.CreateAccountPage INFO  - Step: Enter Postcode
+2021-03-06 11:43:01,135 pages.CreateAccountPage INFO  - Step: Enter Home mobile number
+2021-03-06 11:43:01,401 pages.CreateAccountPage INFO  - Step: Enter Mobile number
+2021-03-06 11:43:04,842 pages.CreateAccountPage INFO  - Details Registered in Application
+2021-03-06 11:43:06,339 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: createAccountTestDynamicDataPojo ==================================
+2021-03-08 08:12:19,316 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: createAccountTestDynamicDataPojo ==================================
+2021-03-08 08:12:50,253 base.PredefinedActions INFO  - Navigate to Application
+2021-03-08 08:12:50,261 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-08 08:12:56,663 pages.AuthenticationPage INFO  - Step: Validate Authentication page title
+2021-03-08 08:12:56,848 pages.AuthenticationPage INFO  - Step: Enter email address for the create user name
+2021-03-08 08:12:57,897 pages.AuthenticationPage INFO  - Step: Click on the submit button to fill the other details
+2021-03-08 08:12:58,107 pages.CreateAccountPage INFO  - Step: Validate CreateAccount page title
+2021-03-08 08:13:01,068 pages.CreateAccountPage INFO  - Validate header 'Your personal information'
+2021-03-08 08:13:01,319 pages.CreateAccountPage INFO  - Step: Select title
+2021-03-08 08:13:01,440 pages.CreateAccountPage INFO  - Step: Enter First Name
+2021-03-08 08:13:01,797 pages.CreateAccountPage INFO  - Step: Enter Last Name
+2021-03-08 08:13:02,055 pages.CreateAccountPage INFO  - Step: Enter Password
+2021-03-08 08:13:02,327 pages.CreateAccountPage INFO  - Step: Select day
+2021-03-08 08:13:03,293 pages.CreateAccountPage INFO  - Step: Select month
+2021-03-08 08:13:03,749 pages.CreateAccountPage INFO  - Step: Select year
+2021-03-08 08:13:04,294 pages.CreateAccountPage INFO  - Step: Enter Company Name
+2021-03-08 08:13:04,551 pages.CreateAccountPage INFO  - Step: Enter Address Name
+2021-03-08 08:13:04,805 pages.CreateAccountPage INFO  - Step: Enter City Name
+2021-03-08 08:13:05,039 pages.CreateAccountPage INFO  - Step: Select State
+2021-03-08 08:13:05,492 pages.CreateAccountPage INFO  - Step: Enter Postcode
+2021-03-08 08:13:05,748 pages.CreateAccountPage INFO  - Step: Enter Home mobile number
+2021-03-08 08:13:06,030 pages.CreateAccountPage INFO  - Step: Enter Mobile number
+2021-03-08 08:13:10,057 pages.CreateAccountPage INFO  - Details Registered in Application
+2021-03-08 08:13:11,372 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: createAccountTestDynamicDataPojo ==================================
