@@ -1,0 +1,32 @@
+2021-03-06 11:48:29,155 com.technocredits.automationpractice.TestBase INFO  - ========================== Start Test: e2ePurchase ==================================
+2021-03-06 11:48:56,837 base.PredefinedActions INFO  - Navigate to Application
+2021-03-06 11:48:56,843 pages.HomePage       INFO  - Step: Click on sign in
+2021-03-06 11:49:04,607 pages.AuthenticationPage INFO  - Step: Enter email in SignIn box
+2021-03-06 11:49:05,045 pages.AuthenticationPage INFO  - Step: Enter password in SignIn box
+2021-03-06 11:49:05,627 pages.AuthenticationPage INFO  - Step: Sign in button
+2021-03-06 11:49:08,856 pages.MyProfilePage  INFO  - Step: Click on category 'Women'
+2021-03-06 11:49:18,595 pages.ProductCategoryPage INFO  - Step: Get list of products
+2021-03-06 11:49:18,813 pages.ProductCategoryPage INFO  - Step: Select first product from list
+2021-03-06 11:49:23,504 pages.ProductDetailsPage INFO  - Step: set quantity
+2021-03-06 11:49:23,703 pages.ProductDetailsPage INFO  - Step: set size
+2021-03-06 11:49:23,896 pages.ProductDetailsPage INFO  - Step: set color
+2021-03-06 11:49:24,202 pages.ProductDetailsPage INFO  - Step: click on add to cart
+2021-03-06 11:49:24,802 pages.ProductDetailsPage INFO  - Step: verify product name
+2021-03-06 11:49:25,973 pages.ProductDetailsPage INFO  - Step: verify quantity
+2021-03-06 11:49:26,109 pages.ProductDetailsPage INFO  - Step: verify size and color
+2021-03-06 11:49:26,267 pages.ProductDetailsPage INFO  - Step: verify total price
+2021-03-06 11:49:26,345 pages.ProductDetailsPage INFO  - Step: Product Details page - click on 'proceed to checkout'
+2021-03-06 11:49:29,333 pages.CheckoutSummaryPage INFO  - Step: Get product name
+2021-03-06 11:49:29,431 pages.CheckoutSummaryPage INFO  - Step: Get product price
+2021-03-06 11:49:29,501 pages.CheckoutSummaryPage INFO  - Step: Get total price
+2021-03-06 11:49:29,585 pages.CheckoutSummaryPage INFO  - Step: Get size and color
+2021-03-06 11:49:29,807 pages.CheckoutSummaryPage INFO  - Step: Summary Page - Click on 'proceed to checkout'
+2021-03-06 11:49:33,378 pages.CheckoutAddressPage INFO  - Step: check if checkbox checked
+2021-03-06 11:49:33,463 pages.CheckoutAddressPage INFO  - Step: Get delivery address
+2021-03-06 11:49:33,918 pages.CheckoutAddressPage INFO  - Step: Get billing address
+2021-03-06 11:49:34,183 pages.CheckoutAddressPage INFO  - Step: CheckoutAddressPage - Click on 'proceed to checkout' button
+2021-03-06 11:49:37,433 pages.CheckoutShippingPage INFO  - Step: Get Shipping charge
+2021-03-06 11:49:37,557 pages.CheckoutShippingPage INFO  - Step: Agree terms & conditions
+2021-03-06 11:49:37,705 pages.CheckoutShippingPage INFO  - Step: CheckoutShippingPage - Click on 'proceed to checkout' button
+2021-03-06 11:49:43,799 pages.CheckoutPaymentPage INFO  - Step: click on 'Pay by bank wire' button
+2021-03-06 11:49:54,846 com.technocredits.automationpractice.TestBase INFO  - ========================== End Test: e2ePurchase ==================================
